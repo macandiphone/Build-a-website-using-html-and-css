@@ -578,6 +578,10 @@ a {
     justify-self: start;
     margin: 0 2rem;
   }
+
+  .callout-signup {
+    transform: translateY(5rem);
+  }
 }
 
 /* Collapsibles */
@@ -894,9 +898,4 @@ a {
   .footer__heading {
     font-size: 1.6rem;
   }
-}
-
-/* Sign-up Callout */
-.callout-signup {
-  transform: translateY(5rem);
 }
